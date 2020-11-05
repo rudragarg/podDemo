@@ -10,3 +10,14 @@ git add          =   adds your changes
 git commit -m    =   makes a checkpoint
 git push         =   officially makes the checkpoint in github
 
+
+Usual way:
+1. Clone repository
+
+2. Edit stuff
+3. git add <filename> or .  -- stage changes
+4. git commit -m
+5. git pull
+6. git push
+
+
