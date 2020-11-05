@@ -1,0 +1,12 @@
+Command line:
+cd       =   change directory
+cd ..    =   go back
+ls       =   list all the files in directory
+
+
+Git commands:
+git clone        =   puts repository on local machine
+git add          =   adds your changes
+git commit -m    =   makes a checkpoint
+git push         =   officially makes the checkpoint in github
+
